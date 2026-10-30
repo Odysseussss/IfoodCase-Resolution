@@ -8,7 +8,7 @@ Usar dados de perfil, compras e respostas a campanhas anteriores para identifica
 
 ## Conteúdo
 
-- `Resolution_IfoodCase.ipynb`: notebook com carregamento, validações, exploração, segmentação, diagnóstico financeiro, regressão logística e score de priorização.
+- `IfoodCase_Resolution.ipynb`: notebook com carregamento, validações, exploração, segmentação, diagnóstico financeiro, regressão logística e score de priorização.
 - `ifood_case_data.csv`: base utilizada na análise.
 - `ifood_case_enunciado.md`: enunciado original do case.
 
@@ -26,7 +26,7 @@ Abra o notebook no Jupyter ou clique aqui para ir Google Colab e execute as cél
 
 ## Resultado da análise
 
-O notebook gera um score individual com probabilidade de resposta, lucro esperado, prioridade e faixa de contato. A base recomendada para contato é exportada como `clientes_priorizados_contato.csv` após a execução do notebook que encaminhada aos stakeholders.
+O notebook gera um score individual com probabilidade de resposta, lucro esperado, prioridade e faixa de contato. A base recomendada para contato é exportada como `clientes_priorizados_contato.csv` após a execução do notebook que permite download direto em csv.
 
 ## Próximos passos
 
